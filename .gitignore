@@ -26,3 +26,23 @@ __pycache__
 # *.xlsx
 # *.0
 # *.pkl.DS_Store
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Env
+.env
+.env.local
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
