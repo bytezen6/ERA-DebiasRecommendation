@@ -1,0 +1,28 @@
+__pycache__
+# *.pyc
+# /datasets/ml*
+# /datasets/
+# /datasets/social/*
+# M_*
+# *.csv
+# *.so
+# */__pycache__/*
+# */__pycache__/*.pyc
+
+# params
+# plots
+# .idea
+# IMP
+# */*.npy
+# *.npy
+# *.pth
+# *.pt
+# *.eps
+# *.jpg
+# *.png
+# *.ttf
+# *.tar.gz
+# *.zip
+# *.xlsx
+# *.0
+# *.pkl
