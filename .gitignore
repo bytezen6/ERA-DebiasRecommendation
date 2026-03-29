@@ -25,4 +25,4 @@ __pycache__
 # *.zip
 # *.xlsx
 # *.0
-# *.pkl
+# *.pkl.DS_Store
